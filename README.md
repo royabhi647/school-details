@@ -16,6 +16,7 @@ This project is designed to manage and display data of various schools using Rea
 - Node.js
 - Express.js
 - MySQL
+- nodemon
 
 ## Installation and Setup
 1. Clone the repository:
@@ -27,7 +28,10 @@ This project is designed to manage and display data of various schools using Rea
 2. Install dependencies using npm:
    <pre>npm install</pre>
 
-3. Start the development server:
+3. Start the backend server:
+   <pre>nodemon server.js</pre>
+
+4. Start the frontend:
    <pre>npm start</pre>
 
 ## Assignment Screenshots
