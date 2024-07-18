@@ -10,8 +10,8 @@ function App() {
       <Navbar />
       <div className="container mx-auto p-4">
         <Routes>
-          <Route path="/" element={<AddSchool />} />
-          <Route path="/show-schools" element={<ShowSchools />} />
+          <Route path="/" element={<ShowSchools />} />
+          <Route path="/add-school" element={<AddSchool />} />
         </Routes>
       </div>
     </Router>

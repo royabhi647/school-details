@@ -17,7 +17,7 @@ const AddSchool = () => {
     try {
       const response = await axios.post('http://localhost:3001/addSchool', data);
       console.log(response.data);
-      navigate('/show-schools');
+      navigate('/');
     } catch (error) {
       console.error('Error adding school:', error);
     }
