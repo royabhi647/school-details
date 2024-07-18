@@ -35,3 +35,6 @@ This project is designed to manage and display data of various schools using Rea
    <pre>npm start</pre>
 
 ## Assignment Screenshots
+
+![school1](https://github.com/user-attachments/assets/2135760f-1e4b-489f-9135-87c96c7d3403)
+![school2](https://github.com/user-attachments/assets/67be9df4-482c-44f9-8e51-b3dda089d5ce)
